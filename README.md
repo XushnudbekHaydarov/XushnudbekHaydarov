@@ -4,78 +4,66 @@
 Python Backend & AI Engineer from Uzbekistan 🇺🇿
 </h3>
 
-<img align="right" height="180" style="margin-top:40px;" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2"/>
-
 ---
 
 ## 👨‍💻 About Me
 
+<img align="right" height="220" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2"/>
+
 - 🐍 Python Backend Engineer
+
 - ⚡ Django • FastAPI • PostgreSQL
+
 - 🤖 AI • LLM • RAG • Ollama
+
+- 📦 LangChain • FAISS • HuggingFace
+
 - 🐳 Docker • Git • Linux
+
 - 🔐 Learning DevOps & Cyber Security
-- 🚀 Building secure and scalable backend systems
+
+- 🚀 Building secure, scalable and AI-powered backend systems
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<div align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=django" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=redis" height="45"/>
-<img width="8"/>
-
-<img src="https://skillicons.dev/icons?i=nginx" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,github,linux,redis,nginx,vscode,pycharm" />
 
 </div>
 
 ---
 
-## 🤖 AI Stack
+# 🤖 AI Stack
 
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🦙 Ollama
-- 🤗 HuggingFace
-- 🔗 LangChain
-- 📦 FAISS
+<div align="center">
+
+| AI | Backend |
+|:---:|:---:|
+| 🧠 LLM | ⚡ FastAPI |
+| 🔎 RAG | 🐍 Django |
+| 🦙 Ollama | 🐘 PostgreSQL |
+| 🤗 HuggingFace | 🐳 Docker |
+| 🔗 LangChain | 🐧 Linux |
+| 📦 FAISS | 🔥 Redis |
+
+</div>
 
 ---
 
-## 🌐 Connect with me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -91,7 +79,7 @@ Python Backend & AI Engineer from Uzbekistan 🇺🇿
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/trophy-output/trophy.svg"/>
+<img src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/trophy-output/trophy.svg" />
 
 </p>
 
@@ -101,6 +89,24 @@ Python Backend & AI Engineer from Uzbekistan 🇺🇿
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg">
+
+<img
+alt="Pacman Contribution Graph"
+src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
+
+</picture>
 
 </p>
+
+---
+
+<div align="center">
+
+### 💻 "Code. Learn. Build. Repeat."
+
+</div>
