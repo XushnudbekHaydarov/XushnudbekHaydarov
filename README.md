@@ -84,7 +84,22 @@
 📦 **FAISS**
 
 </sub>
+<td width="35%" valign="top" align="center">
 
+<h3>🤖 AI Stack</h3>
+
+<sub>
+
+🧠 **LLM**<br>
+🔍 **RAG**<br>
+🦙 **Ollama**<br>
+🤗 **HuggingFace**<br>
+🔗 **LangChain**<br>
+📦 **FAISS**
+
+</sub>
+
+</td>
 </td>
 </tr>
 </table>
