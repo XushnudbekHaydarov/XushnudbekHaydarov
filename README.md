@@ -48,31 +48,35 @@
 
 ---
 
-# 🛠 Tech Stack
+<table>
+<tr>
 
-<div align="center">
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,github,linux,redis,nginx,vscode,pycharm" />
+## 🛠 Backend
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,git,linux"/>
 
----
+</td>
 
-# 🤖 AI Stack
+<td align="center" width="50%">
 
-<div align="center">
+## 🤖 AI
 
-| AI | Backend |
-|:---:|:---:|
-| 🧠 LLM | ⚡ FastAPI |
-| 🔎 RAG | 🐍 Django |
-| 🦙 Ollama | 🐘 PostgreSQL |
-| 🤗 HuggingFace | 🐳 Docker |
-| 🔗 LangChain | 🐧 Linux |
-| 📦 FAISS | 🔥 Redis |
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-</div>
+<br><br>
 
+`LLM` • `RAG` • `Ollama`
+
+`LangChain` • `FAISS`
+
+`HuggingFace`
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🌐 Connect With Me
