@@ -21,6 +21,8 @@
 ###
 
 <img align="right" height="150" src="./assets/the-mentalist.gif" alt="The Mentalist GIF" />
+
+
 ###
 
 <div data-importer="socials" align="left">
