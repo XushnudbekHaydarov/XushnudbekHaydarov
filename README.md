@@ -74,30 +74,16 @@
 
 <h3>🤖 AI Stack</h3>
 
-<sub>
+<table cellpadding="3">
 
-🧠 **LLM**<br>
-🔍 **RAG**<br>
-🦙 **Ollama**<br>
-🤗 **HuggingFace**<br>
-🔗 **LangChain**<br>
-📦 **FAISS**
+<tr><td>🧠</td><td>LLM</td></tr>
+<tr><td>🔍</td><td>RAG</td></tr>
+<tr><td>🦙</td><td>Ollama</td></tr>
+<tr><td>🤗</td><td>HuggingFace</td></tr>
+<tr><td>🔗</td><td>LangChain</td></tr>
+<tr><td>📦</td><td>FAISS</td></tr>
 
-</sub>
-<td width="35%" valign="top" align="center">
-
-<h3>🤖 AI Stack</h3>
-
-<sub>
-
-🧠 **LLM**<br>
-🔍 **RAG**<br>
-🦙 **Ollama**<br>
-🤗 **HuggingFace**<br>
-🔗 **LangChain**<br>
-📦 **FAISS**
-
-</sub>
+</table>
 
 </td>
 </td>
