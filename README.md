@@ -4,18 +4,18 @@
 Python Backend & AI Engineer from Uzbekistan 🇺🇿
 </h3>
 
-<img align="right" height="180" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2" />
+<img align="right" height="180" style="margin-top:40px;" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2"/>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Building **Backend & AI Applications**
 - 🐍 Python Backend Engineer
 - ⚡ Django • FastAPI • PostgreSQL
-- 🤖 LLM • RAG • Ollama • HuggingFace
+- 🤖 AI • LLM • RAG • Ollama
 - 🐳 Docker • Git • Linux
-- 🌱 Currently learning **DevOps & Cyber Security**
+- 🔐 Learning DevOps & Cyber Security
+- 🚀 Building secure and scalable backend systems
 
 ---
 
@@ -24,31 +24,31 @@ Python Backend & AI Engineer from Uzbekistan 🇺🇿
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=django" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=docker" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=redis" height="45"/>
-<img width="10"/>
+<img width="8"/>
 
 <img src="https://skillicons.dev/icons?i=nginx" height="45"/>
 
@@ -101,17 +101,6 @@ Python Backend & AI Engineer from Uzbekistan 🇺🇿
 
 <p align="center">
 
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph.svg">
-
-<img alt="Pacman contribution graph"
-src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph.svg">
-
-</picture>
+<img src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
 
 </p>
