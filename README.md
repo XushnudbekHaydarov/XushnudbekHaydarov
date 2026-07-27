@@ -135,7 +135,7 @@ media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph.svg">
 
 <img
-alt="Pacman Contribution Graph"
+alt="Contribution Graph"
 src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
 
 </picture>
