@@ -48,37 +48,59 @@
 
 ---
 
-# 🚀 Technologies & AI
+# 🛠 Technologies & 🤖 AI
 
 <table>
 <tr>
 
-<td width="55%" valign="top" align="center">
+<td width="60%" valign="top" align="center">
 
-<h3>🛠 Backend Technologies</h3>
+<h3>🛠 Technologies</h3>
 
 <br>
 
-<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,github,linux,redis,nginx,vscode,pycharm"/>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/></td>
+</tr>
 
-</p>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/></td>
+</tr>
+
+</table>
 
 </td>
 
-<td width="45%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
 <h3>🤖 AI Stack</h3>
 
 <table>
+
 <tr>
 <td>🧠</td>
 <td><b>LLM</b></td>
 </tr>
 
 <tr>
-<td>🔎</td>
+<td>🔍</td>
 <td><b>RAG</b></td>
 </tr>
 
@@ -104,7 +126,12 @@
 
 <tr>
 <td>📄</td>
-<td><b>OCR (Tesseract)</b></td>
+<td><b>Tesseract OCR</b></td>
+</tr>
+
+<tr>
+<td>💬</td>
+<td><b>Prompt Engineering</b></td>
 </tr>
 
 </table>
@@ -113,7 +140,6 @@
 
 </tr>
 </table>
----
 
 # 🌐 Connect With Me
 
