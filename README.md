@@ -20,7 +20,8 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://imgflip.com/gif/6ebp6y"  />
+<img data-importer="image" align="right" height="150" src="<img width="245" height="245" alt="the mentalist GIF" src="https://github.com/user-attachments/assets/0b33b5b6-b9cb-475b-a2df-42baac9d4c9f" />
+"  />
 
 ###
 
