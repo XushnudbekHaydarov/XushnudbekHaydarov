@@ -86,55 +86,21 @@
 
 </table>
 
-</td>
 
-<td width="40%" valign="top" align="center">
+<td width="35%" valign="top" align="center">
 
 <h3>🤖 AI Stack</h3>
 
-<table>
+<sub>
 
-<tr>
-<td>🧠</td>
-<td><b>LLM</b></td>
-</tr>
+🧠 **LLM**<br>
+🔍 **RAG**<br>
+🦙 **Ollama**<br>
+🤗 **HuggingFace**<br>
+🔗 **LangChain**<br>
+📦 **FAISS**
 
-<tr>
-<td>🔍</td>
-<td><b>RAG</b></td>
-</tr>
-
-<tr>
-<td>🦙</td>
-<td><b>Ollama</b></td>
-</tr>
-
-<tr>
-<td>🤗</td>
-<td><b>HuggingFace</b></td>
-</tr>
-
-<tr>
-<td>🔗</td>
-<td><b>LangChain</b></td>
-</tr>
-
-<tr>
-<td>📦</td>
-<td><b>FAISS</b></td>
-</tr>
-
-<tr>
-<td>📄</td>
-<td><b>Tesseract OCR</b></td>
-</tr>
-
-<tr>
-<td>💬</td>
-<td><b>Prompt Engineering</b></td>
-</tr>
-
-</table>
+</sub>
 
 </td>
 
