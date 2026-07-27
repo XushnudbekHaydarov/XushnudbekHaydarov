@@ -1,19 +1,20 @@
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Engineer;AI+Engineer;Django+%7C+FastAPI+%7C+PostgreSQL;Docker+%7C+Git+%7C+Linux;Always+Learning+New+Things..." />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZoanhjZmpvODc5bWZ1dmFmMjZjZDFpMjNueXFod3U3am16dTB2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="850"/>
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Hushnudbek</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Engineer;AI+Engineer;Django+%7C+FastAPI+%7C+PostgreSQL;Docker+%7C+Git+%7C+Linux;Always+Learning+New+Things..." />
+</p>
 
 
 <p align="center">
 🇺🇿 Building Secure Backend Systems • AI • Django • FastAPI
 </p>
 
-
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZoanhjZmpvODc5bWZ1dmFmMjZjZDFpMjNueXFod3U3am16dTB2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="850"/>
-</p>
 
 <p align="center">
 
