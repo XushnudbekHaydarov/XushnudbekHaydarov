@@ -1,29 +1,21 @@
-
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZoanhjZmpvODc5bWZ1dmFmMjZjZDFpMjNueXFod3U3am16dTB2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="850"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZoanhjZmpvODc5bWZ1dmFmMjZjZDFpMjNueXFod3U3am16dTB2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="900"/>
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Hushnudbek</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Engineer;AI+Engineer;Django+%7C+FastAPI+%7C+PostgreSQL;Docker+%7C+Git+%7C+Linux;Always+Learning+New+Things..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Engineer;AI+Engineer;Django+%7C+FastAPI+%7C+PostgreSQL;Docker+%7C+Git+%7C+Linux;Always+Learning+New+Things..." />
 </p>
-
 
 <p align="center">
 🇺🇿 Building Secure Backend Systems • AI • Django • FastAPI
 </p>
 
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=XushnudbekHaydarov&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/XushnudbekHaydarov?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/XushnudbekHaydarov?affiliations=OWNER&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=XushnudbekHaydarov&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/XushnudbekHaydarov?logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/XushnudbekHaydarov?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
@@ -31,20 +23,12 @@
 # 👨‍💻 About Me
 
 - 🐍 Python Backend Engineer
-
 - 🤖 AI Engineer (LLM • RAG • Ollama)
-
 - ⚡ Django • FastAPI • PostgreSQL
-
 - 🐳 Docker • Git • Linux
-
 - 📦 LangChain • FAISS • HuggingFace
-
 - 🔐 Learning DevOps & Cyber Security
-
-- 🚀 Building secure, scalable backend systems
-
-<br clear="right"/>
+- 🚀 Building secure, scalable and AI-powered backend systems
 
 ---
 
@@ -53,11 +37,9 @@
 <table>
 <tr>
 
-<td width="60%" valign="top" align="center">
+<td width="70%" valign="top" align="center">
 
 <h3>🛠 Technologies</h3>
-
-<br>
 
 <table>
 <tr>
@@ -86,26 +68,35 @@
 
 </table>
 
+</td>
 
-<td width="35%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 <h3>🤖 AI Stack</h3>
 
-<sub>
+<img src="https://img.shields.io/badge/LLM-blue?style=flat-square"/>
+<br><br>
 
-🧠 **LLM**<br>
-🔍 **RAG**<br>
-🦙 **Ollama**<br>
-🤗 **HuggingFace**<br>
-🔗 **LangChain**<br>
-📦 **FAISS**
+<img src="https://img.shields.io/badge/RAG-green?style=flat-square"/>
+<br><br>
 
-</sub>
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-success?style=flat-square"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat-square"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/FAISS-orange?style=flat-square"/>
 
 </td>
 
 </tr>
 </table>
+
+---
 
 # 🌐 Connect With Me
 
@@ -130,9 +121,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/trophy-output/trophy.svg" />
-
+<img src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/trophy-output/trophy.svg"/>
 </p>
 
 ---
@@ -141,26 +130,26 @@
 
 <p align="center">
 
-
 <picture>
 
-<source media="(prefers-color-scheme: dark)"
+<source
+media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg">
 
-<source media="(prefers-color-scheme: light)"
+<source
+media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph.svg">
 
 <img
-alt="Pacman contribution graph"
+alt="Pacman Contribution Graph"
 src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
 
 </picture>
 
 </p>
+
 ---
 
-<div align="center">
-
-### 💻 "Code. Learn. Build. Repeat."
-
-</div>
+<h3 align="center">
+💻 Code • Learn • Build • Repeat 🚀
+</h3>
