@@ -1,30 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hushnudbek</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-GIF-ID" width="800" alt="Tony Stark">
-</p>
-
 <h3 align="center">
 Python Backend & AI Engineer from Uzbekistan 🇺🇿
 </h3>
+
+<div align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZoanhjZmpvODc5bWZ1dmFmMjZjZDFpMjNueXFod3U3am16dTB2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="900"/>
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" height="220" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2"/>
-
 - 🐍 Python Backend Engineer
-
 - ⚡ Django • FastAPI • PostgreSQL
-
 - 🤖 AI • LLM • RAG • Ollama
-
 - 📦 LangChain • FAISS • HuggingFace
-
 - 🐳 Docker • Git • Linux
-
 - 🔐 Learning DevOps & Cyber Security
-
 - 🚀 Building secure, scalable and AI-powered backend systems
 
 <br clear="right"/>
