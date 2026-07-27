@@ -70,29 +70,22 @@
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="35%" valign="top" align="center">
 
 <h3>🤖 AI Stack</h3>
 
-<img src="https://img.shields.io/badge/LLM-blue?style=flat-square"/>
-<br><br>
+<sub>
 
-<img src="https://img.shields.io/badge/RAG-green?style=flat-square"/>
-<br><br>
+🧠 **LLM**<br>
+🔍 **RAG**<br>
+🦙 **Ollama**<br>
+🤗 **HuggingFace**<br>
+🔗 **LangChain**<br>
+📦 **FAISS**
 
-<img src="https://img.shields.io/badge/Ollama-black?style=flat-square"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-success?style=flat-square"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat-square"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/FAISS-orange?style=flat-square"/>
+</sub>
 
 </td>
-
 </tr>
 </table>
 
