@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hushnudbek</h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/YOUR-GIF-ID" width="800" alt="Tony Stark">
+</p>
+
 <h3 align="center">
 Python Backend & AI Engineer from Uzbekistan 🇺🇿
 </h3>
-
 ---
 
 ## 👨‍💻 About Me
