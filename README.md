@@ -1,26 +1,48 @@
 <h1 align="center">Hi 👋, I'm Hushnudbek</h1>
 
 <h3 align="center">
-Python Backend & AI Engineer from Uzbekistan 🇺🇿
+Python Backend & AI Engineer
 </h3>
 
-<div align="center">
+<p align="center">
+🇺🇿 Building Secure Backend Systems • AI • Django • FastAPI
+</p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZoanhjZmpvODc5bWZ1dmFmMjZjZDFpMjNueXFod3U3am16dTB2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="900"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Engineer;AI+Engineer;Django+%7C+FastAPI+%7C+PostgreSQL;Docker+%7C+Git+%7C+Linux;Always+Learning+New+Things..." />
+</p>
 
-</div>
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZoanhjZmpvODc5bWZ1dmFmMjZjZDFpMjNueXFod3U3am16dTB2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UDBcExoz3R08IRpWr/giphy.gif" width="850"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=XushnudbekHaydarov&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/XushnudbekHaydarov?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/XushnudbekHaydarov?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🐍 Python Backend Engineer
+
+- 🤖 AI Engineer (LLM • RAG • Ollama)
+
 - ⚡ Django • FastAPI • PostgreSQL
-- 🤖 AI • LLM • RAG • Ollama
-- 📦 LangChain • FAISS • HuggingFace
+
 - 🐳 Docker • Git • Linux
+
+- 📦 LangChain • FAISS • HuggingFace
+
 - 🔐 Learning DevOps & Cyber Security
-- 🚀 Building secure, scalable and AI-powered backend systems
+
+- 🚀 Building secure, scalable backend systems
 
 <br clear="right"/>
 
