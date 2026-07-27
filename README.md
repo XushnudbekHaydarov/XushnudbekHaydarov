@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hushnudbek</h1>
 
-<h3 align="center">
-Python Backend & AI Engineer
-</h3>
 
 <p align="center">
 🇺🇿 Building Secure Backend Systems • AI • Django • FastAPI
