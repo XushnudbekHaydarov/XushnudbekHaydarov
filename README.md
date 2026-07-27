@@ -107,7 +107,12 @@ Python Backend & AI Engineer from Uzbekistan 🇺🇿
 ## 🟩 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph.svg">
+
+  <img alt="pacman"
+       src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/pacman-output/pacman-contribution-graph.svg">
 </picture>
