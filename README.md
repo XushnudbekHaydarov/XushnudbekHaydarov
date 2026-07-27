@@ -20,8 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="./assets/the-mentalist.gif" alt="The Mentalist GIF" />
-
+<img align="right" height="150" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2" />
 
 ###
 
