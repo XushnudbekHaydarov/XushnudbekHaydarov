@@ -18,11 +18,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Contribution Graph
+      - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: XushnudbekHaydarov
-          games: "galaga"
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
           output_dir: dist
 
       - name: Deploy to pacman-output branch
@@ -31,4 +31,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: pacman-output
           publish_dir: ./dist
-          force_orphan: true
+          force_orphan: trueа
+
+
