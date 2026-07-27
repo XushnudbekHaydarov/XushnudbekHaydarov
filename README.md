@@ -1,36 +1,113 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">
+Hi 👋! I'm <b>Hushnudbek</b><br>
+Python Backend & AI Engineer from Uzbekistan 🇺🇿
+</h2>
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<img align="right" height="170" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2" />
+
+### 🛠️ Tech Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+
 </div>
 
 ###
 
-<img align="right" height="150" alt="The Mentalist GIF" src="https://github.com/user-attachments/assets/117fea87-afa4-4cda-8fd4-185c7e15bfe2" />
+### 🤖 AI Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+
+</div>
+
+- 🤖 LLM
+- 🔎 RAG
+- 🦙 Ollama
+- 🤗 HuggingFace
+- 🔗 LangChain
+- 📦 FAISS
 
 ###
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 🌐 Connect with me
+
+<div align="left">
+
+<a href="https://linkedin.com/in/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 </div>
 
 ###
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+###
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+###
+
+## 🟩 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
