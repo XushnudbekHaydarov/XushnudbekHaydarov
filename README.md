@@ -89,20 +89,22 @@ Python Backend & AI Engineer from Uzbekistan 🇺🇿
 
 <p align="center">
 
+
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
+<source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg">
 
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph.svg">
+
 <img
-alt="Pacman Contribution Graph"
+alt="Pacman contribution graph"
 src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
 
 </picture>
 
 </p>
-
 ---
 
 <div align="center">
