@@ -96,19 +96,15 @@
 
 <p align="center">
 
-<a href="mailto:xushnudhaydarov200828@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=xushnudhaydarov200828@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://t.me/l_xushnudbek_l">
+<a href="https://t.me/l_xushnudbek_l" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/khaydarovhushnud">
+<a href="https://instagram.com/khaydarovhushnud" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
