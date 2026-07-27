@@ -48,30 +48,66 @@
 
 ---
 
+# 🚀 Technologies & AI
+
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="55%" valign="top" align="center">
 
-## 🛠 Backend
+<h3>🛠 Backend Technologies</h3>
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,git,linux"/>
+<br>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,github,linux,redis,nginx,vscode,pycharm"/>
+
+</p>
 
 </td>
 
-<td align="center" width="50%">
+<td width="45%" valign="top" align="center">
 
-## 🤖 AI
+<h3>🤖 AI Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<table>
+<tr>
+<td>🧠</td>
+<td><b>LLM</b></td>
+</tr>
 
-<br><br>
+<tr>
+<td>🔎</td>
+<td><b>RAG</b></td>
+</tr>
 
-`LLM` • `RAG` • `Ollama`
+<tr>
+<td>🦙</td>
+<td><b>Ollama</b></td>
+</tr>
 
-`LangChain` • `FAISS`
+<tr>
+<td>🤗</td>
+<td><b>HuggingFace</b></td>
+</tr>
 
-`HuggingFace`
+<tr>
+<td>🔗</td>
+<td><b>LangChain</b></td>
+</tr>
+
+<tr>
+<td>📦</td>
+<td><b>FAISS</b></td>
+</tr>
+
+<tr>
+<td>📄</td>
+<td><b>OCR (Tesseract)</b></td>
+</tr>
+
+</table>
 
 </td>
 
