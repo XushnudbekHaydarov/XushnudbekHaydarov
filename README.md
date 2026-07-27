@@ -127,10 +127,11 @@
 <p align="center">
   <img
     alt="Galaga Contribution Graph"
-    src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/.github/workflows/galaga.svg"/>
+    src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/main/galaga.svg"/>
 </p>
 
----
+
+
 
 <h3 align="center">
 💻 Code • Learn • Build • Repeat 🚀
