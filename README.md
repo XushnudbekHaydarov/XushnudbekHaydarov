@@ -122,24 +122,12 @@
 
 # 👾 Pacman Contribution Graph
 
+# 🚀 Galaga Contribution Graph
+
 <p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph.svg">
-
-<img
-alt="Contribution Graph"
-src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
-
-</picture>
-
+  <img
+    alt="Galaga Contribution Graph"
+    src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/.github/workflows/galaga.svg"/>
 </p>
 
 ---
