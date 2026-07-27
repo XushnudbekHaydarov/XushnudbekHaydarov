@@ -119,20 +119,29 @@
 </p>
 
 ---
-
 # 👾 Pacman Contribution Graph
 
-# 🚀 Galaga Contribution Graph
-
 <p align="center">
-  <img
-    alt="Galaga Contribution Graph"
-    src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/main/galaga.svg"/>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph.svg">
+
+<img
+alt="Pacman Contribution Graph"
+src="https://raw.githubusercontent.com/XushnudbekHaydarov/XushnudbekHaydarov/pacman-output/pacman-contribution-graph-dark.svg"/>
+
+</picture>
+
 </p>
 
-
-
-
+---
 <h3 align="center">
 💻 Code • Learn • Build • Repeat 🚀
 </h3>
